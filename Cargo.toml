@@ -1,0 +1,10 @@
+[package]
+name = "rocket-api-with-swagger-ui"
+version = "0.1.0"
+authors = ["Harryson Palheta <harryson.palheta@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.5"
+rocket_okapi = "0.5.1"
+okapi = "0.4.0"
